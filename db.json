@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "details": "latte ",
+      "price": "200",
+      "quantity": "Latte caramel",
+      "category": "coffee",
+      "sale": "10",
+      "urlImg": "https://coffeeaffection.com/wp-content/uploads/2020/01/how-to-make-a-latte-at-home.jpg",
+      "id": 1
+    },
+    {
+      "details": "Cappuccino",
+      "price": "160",
+      "quantity": "Cappuccino caramel",
+      "category": "coffee",
+      "sale": "0",
+      "urlImg": "https://upload.wikimedia.org/wikipedia/commons/1/16/Classic_Cappuccino.jpg",
+      "id": 2
+    },
+    {
+      "details": "Flat white",
+      "price": "300",
+      "quantity": "Flat white",
+      "category": "Cofee",
+      "sale": "20",
+      "urlImg": "https://www.nespresso.com/ncp/res/uploads/recipes/nespresso-recipes-Flat-White-by-Nespresso.jpg",
+      "id": 3
+    }
+  ]
+}
